@@ -59,7 +59,7 @@ Email: lucianorosende@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/lucianorosende/
 
-# These are my projects
+# These Pinned Repo's are my projects
 <!---
 lucianorosende/lucianorosende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
