@@ -27,7 +27,7 @@ Git
 
 Atlassian SourceTree
 
-- 🪣Repositories 
+- Repositories 
 
 GitLab
 
@@ -38,12 +38,13 @@ GitHub
 ThunderClient
 
 Postman
-# 🌱 I’m currently learning ...
+
 - Backend Development
 
 NodeJS
 
 Express
+
 Socket.io
 
 MongoDB
