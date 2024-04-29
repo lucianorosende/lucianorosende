@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lucianorosende
+# 👋 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m @lucianorosende
 # 👀 I’m interested in ...
 
 HTML5
